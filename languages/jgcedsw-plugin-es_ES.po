@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Editing Switch\n"
+"POT-Creation-Date: 2015-06-07 11:25+0100\n"
+"PO-Revision-Date: 2015-06-07 11:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgc-editing-switch-pages.php:7
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/jgc-editing-switch-pages.php:27
+msgid "Select page to edit"
+msgstr "Selecciona una página para editar"
+
+#: inc/jgc-editing-switch-pages.php:38
+msgid "Published"
+msgstr "Publicado"
+
+#: inc/jgc-editing-switch-pages.php:41 inc/jgc-editing-switch-posts.php:38
+msgid "Scheduled"
+msgstr "Programado"
+
+#: inc/jgc-editing-switch-pages.php:44 inc/jgc-editing-switch-posts.php:41
+msgid "Draft"
+msgstr "Borrador"
+
+#: inc/jgc-editing-switch-pages.php:47 inc/jgc-editing-switch-posts.php:44
+msgid "Pending Review"
+msgstr "Pendiente de revisión"
+
+#: inc/jgc-editing-switch-pages.php:50 inc/jgc-editing-switch-posts.php:47
+msgid "Private"
+msgstr "Privado"
+
+#: inc/jgc-editing-switch-pages.php:54 inc/jgc-editing-switch-posts.php:51
+msgid "(No title)"
+msgstr "(Sin título)"
+
+#: inc/jgc-editing-switch-posts.php:7
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/jgc-editing-switch-posts.php:27
+msgid "Select post to edit"
+msgstr "Selecciona una entrada para editar"
+
+#~ msgid "Switch Editing Page"
+#~ msgstr "Cambiar Página de Edición"
+
+#~ msgid "Switch Editing Post"
+#~ msgstr "Cambiar Post de Edición"
